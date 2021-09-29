@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\bin\Debug\netcoreapp3.1\PINValidationThreeTreis.exe
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\bin\Debug\netcoreapp3.1\PINValidationThreeTreis.deps.json
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\bin\Debug\netcoreapp3.1\PINValidationThreeTreis.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\bin\Debug\netcoreapp3.1\PINValidationThreeTreis.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\bin\Debug\netcoreapp3.1\PINValidationThreeTreis.dll
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\bin\Debug\netcoreapp3.1\PINValidationThreeTreis.pdb
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.dll
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.pdb
+C:\Users\opilane\source\repos\logitpe21\WhileLoop\PINValidationThreeTreis\obj\Debug\netcoreapp3.1\PINValidationThreeTreis.genruntimeconfig.cache
